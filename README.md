@@ -11,39 +11,37 @@ Desenvolver o nosso conhecimentos de HTML e CSS
 -Git
 -Live Server
 
-<!DOCTYPE html>
-<html lang="pt-BR">
+!DOCTYPE html>
+<html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
-       <header>
-        <h1>A melhor turma é a DS1A</h1>
-        <h2>Aula de HTML e CSS</h2>
-    </header>
-</body>
-</html>
-  <body>
     <header>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="#sobre">Sobre</a></li>
-          <li><a href="#contato">Contato</a></li>
-          <li><a href="#projetos">Projetos</a></li>
-        </ul>
-      </nav>
+        <h1> A melhor turma é a DS1A</h1>
+        <h2> Aula de HTML e CSS</h2>
+        <nav>
+            <ul>
+                <li><a href="index.html">Index.html</a></li>
+                <li><a href="#Sobre">Sobre</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="#projetos">Projetos</a></li>
+            </ul>
+        </nav>
     </header>
     <main>
-      <section id="sobre">
-        <h2>Sobre Mim</h2>
-        <p>Olá! Meu nome é [Seu Nome], e sou um estudan</p>
-      </section>
+        <section id="Sobre">
+            <h2>Sobre mim</h2>
+            <p>Olá! Meu nome é Julia Ciardi Oliveira, e sou um estudante que CSS e HTML</p>
+        </section>
     </main>
     <footer>
-      <p>&copy; 2026 [Seu Nome]. Todos os direitos reserv</p>
+        <p>$copy; 2026 Julia. Todos os direitos reservados</p>
     </footer>
-  </body>
+</body>
+
 </html>
